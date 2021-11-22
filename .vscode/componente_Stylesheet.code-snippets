@@ -1,0 +1,14 @@
+{
+    "ComponenteFuncional":{
+        "scope": "javascript",
+        "prefix": "compSheet",
+        "body": [
+            "const styles = StyleSheet.create({",
+            "  container: {",
+            "       $1",
+            "    }",
+            "})",
+        ],
+        "description": "Quick styles"
+    }
+}
